@@ -9,7 +9,7 @@ nav{
     background: skyblue;
     display: flex;
     justify-content: space-between;
-    padding: 0px 3rem;
+    padding: 0px 0.5rem;
     position: fixed;
     width: 100%;
 }
